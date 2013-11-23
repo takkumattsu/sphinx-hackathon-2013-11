@@ -17,8 +17,15 @@ Sphinx ハッカソン 11/23
 Sphinxをはじめよう本
 ==========================
 
-`ここから <http://www.oreilly.co.jp/books/9784873116488/>`_ 買おう！
+みんな `ここから <http://www.oreilly.co.jp/books/9784873116488/>`_ 買おう！
 
+
+Sphinxjp恒例おやつタイム!
+==========================
+
+`@kasshew_nuts <https://twitter.com/kashew_nuts>`__  さんが差し入れしてくれました！ありがとうございます！
+
+.. figure:: images/oyatu.jpg-large
 
 Sphinxノウハウ！
 ===================
@@ -27,3 +34,7 @@ Sphinxノウハウ！
 
    howtoSphinx/index
    workflowSphinx/index
+
+
+
+
