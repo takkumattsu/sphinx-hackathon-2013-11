@@ -95,14 +95,4 @@ Makefileに
 
 SPHINXOPT=-W
 
-jenkins
-==============
-
-シェルスクリプトは普通のsphinxコマンドmake html
-
-成果物保存に以下を指定
-build/**
-
-説明に最新成果物のリンクを貼ってあげる
-
 

@@ -60,3 +60,14 @@ Tex Live2013をインストールするとのこと
      - ftp://ftp.riken.go.jp/pub/tex-archive/systems/texlive/Images/
    * - Mac
      - http://tug.org/mactex/
+
+jenkins
+==============
+
+シェルスクリプトは普通のsphinxコマンドmake html
+
+成果物保存に以下を指定
+build/**
+
+説明に最新成果物のリンクを貼ってあげる
+
