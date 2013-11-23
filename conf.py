@@ -25,7 +25,22 @@ import sys, os
 
 # Add any Sphinx extension module names here, as strings. They can be extensions
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
-extensions = ['sphinxjp.themecore']
+extensions = ['sphinxjp.themecore','sphinxcontrib.blockdiag']
+
+# Fontpath for blockdiag (truetype font)
+current_dir = os.path.abspath(os.path.dirname(unicode(__file__)))
+my_fonts_path = current_dir + '/fonts/TakaoGothic.ttf'
+
+blockdiag_fontpath = [ my_fonts_path, # my setting
+                       'C:\Windows\Fonts\msmincho.ttc', # for Windows
+                       '/Library/Fonts/Osaka.ttf', # for Mac OS
+                       '/usr/share/fonts/truetype/ipafont/ipagp.ttf', # for Linux
+                     ]
+#set antialias
+blockdiag_antialias=True
+
+# use svg
+blockdiag_html_image_format="SVG"
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']

@@ -44,3 +44,32 @@ tk0miyaさんはbizstyleを利用しているとのこと
 
 **1.2にはデフォルトで入るかもとのこと！**
 
+
+toctreeについて
+=================
+
+章ごとにディレクトリを切るいい感じみたい
+
+.. blockdiag::
+
+   blockdiag {
+     // Set labels to nodes.
+     A [label = "Topのindex.rst"];
+     B [label = "大項目1"];
+     C [label = "大項目2"];
+     D [label = "中項目1"];
+     E [label = "中項目2"];
+     F [label = "小項目1"];
+     G [label = "小項目2"];
+     H [label = "小項目3"];
+     I [label = "小項目4"];
+
+     A -> B
+     A -> C
+     B -> D
+     C -> E
+     D -> F
+     D -> G
+     E -> H
+     E -> I
+   }

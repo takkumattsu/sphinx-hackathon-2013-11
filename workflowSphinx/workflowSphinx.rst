@@ -48,3 +48,15 @@ Tex Live2013をインストールするとのこと
 
 * Macの場合はMacTexというのをインストールする
 
+.. list-table:: texのインストール
+   :header-rows: 1
+
+
+   * - OS
+     - インストーラー
+   * - Windows
+     - http://www.tug.org/texlive/windows.html
+   * - Linux系
+     - ftp://ftp.riken.go.jp/pub/tex-archive/systems/texlive/Images/
+   * - Mac
+     - http://tug.org/mactex/
