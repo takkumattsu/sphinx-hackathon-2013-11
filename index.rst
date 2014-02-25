@@ -4,9 +4,9 @@ Sphinx ハッカソン 11/23
 
 開催情報
 ============
-1. 日時: 2013/06/30 13:00 - 12:00
+1. 日時: 2013/11/23 13:00 - 19:00
 2. 場所: 曙橋
-3. 参加者: uasturn, tk0miya, koshw_nuts, masori335
+3. 参加者: tk0miya, koshew_nuts, masori335, TakesxiSximada, hirokiky, syu_cream, Satoooooooooooo, karumado2
 
 今日の目標
 ============
@@ -23,7 +23,7 @@ Sphinxをはじめよう本
 Sphinxjp恒例おやつタイム!
 ==========================
 
-`@kasshew_nuts <https://twitter.com/kashew_nuts>`__  さんが差し入れしてくれました！ありがとうございます！
+`usaturn <https://twitter.com/usaturn>`_  さんが差し入れしてくれました！ありがとうございます！
 
 .. figure:: images/oyatu.jpg-large
 
